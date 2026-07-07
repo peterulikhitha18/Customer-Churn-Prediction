@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Churn Prediction System
 
 ## Project Overview
@@ -52,3 +53,7 @@ Add your model accuracy here.
 
 ## Author
 Likhitha
+=======
+# Customer-Churn-Prediction
+
+>>>>>>> 631a6f9df570f985bb5fcdde577b012b3e9c78a5
