@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # Customer Churn Prediction System
-
+ ## Live Demo
+Streamlit App :
+https://customer-churn-prediction-mhtwe4rad4nb6zenc395rf.streamlit.app/
 ## Project Overview
 This project predicts whether a customer is likely to leave a company or stay using Machine Learning techniques.
 
